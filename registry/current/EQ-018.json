@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-018",
+  "name": "Automated Guided Vehicle",
+  "category": "AGV",
+  "department": "Warehouse",
+  "location": "Warehouse Aisles",
+  "age_years": 2,
+  "duty": "Intermittent",
+  "ownership": "Owned",
+  "serial_no": "AGV-2024-0198"
+}

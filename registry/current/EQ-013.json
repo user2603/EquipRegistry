@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-013",
+  "name": "Dust Collection System",
+  "category": "Dust Collector",
+  "department": "Workshop B",
+  "location": "Extraction Grid B",
+  "age_years": 7,
+  "duty": "Continuous",
+  "ownership": "Owned",
+  "serial_no": "DCS-2019-0347"
+}

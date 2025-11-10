@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-004",
+  "name": "Belt Conveyor Line",
+  "category": "Conveyor",
+  "department": "Workshop B",
+  "location": "Assembly Line 1",
+  "age_years": 4,
+  "duty": "Continuous",
+  "ownership": "Owned",
+  "serial_no": "BCV-2022-0047"
+}

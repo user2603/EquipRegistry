@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-006",
+  "name": "HVAC Chiller Unit",
+  "category": "HVAC",
+  "department": "Facilities",
+  "location": "Roof Plant Deck",
+  "age_years": 5,
+  "duty": "Intermittent",
+  "ownership": "Owned",
+  "serial_no": "HCU-2021-0091"
+}

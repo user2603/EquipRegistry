@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-009",
+  "name": "Industrial Dough Mixer",
+  "category": "Food Mixer",
+  "department": "Workshop C",
+  "location": "Processing Hall C1",
+  "age_years": 2,
+  "duty": "Continuous",
+  "ownership": "Owned",
+  "serial_no": "IDM-2024-0633"
+}

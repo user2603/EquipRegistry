@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-003",
+  "name": "CNC Vertical Milling Machine",
+  "category": "CNC Machine",
+  "department": "Workshop B",
+  "location": "Machining Cell B2",
+  "age_years": 6,
+  "duty": "Intermittent",
+  "ownership": "Owned",
+  "serial_no": "CVM-2020-0518"
+}

@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-015",
+  "name": "Air Handling Unit",
+  "category": "HVAC",
+  "department": "Facilities",
+  "location": "AHU Room 1",
+  "age_years": 4,
+  "duty": "Intermittent",
+  "ownership": "Owned",
+  "serial_no": "AHU-2022-0712"
+}

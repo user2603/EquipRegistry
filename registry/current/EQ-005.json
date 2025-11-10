@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-005",
+  "name": "Diesel Backup Generator",
+  "category": "Generator",
+  "department": "Facilities",
+  "location": "Power House",
+  "age_years": 11,
+  "duty": "Standby",
+  "ownership": "Owned",
+  "serial_no": "DBG-2015-0006"
+}

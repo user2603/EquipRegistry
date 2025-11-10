@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-016",
+  "name": "Welding Robot Cell",
+  "category": "Robotic Arm",
+  "department": "Workshop C",
+  "location": "Welding Cell C3",
+  "age_years": 6,
+  "duty": "Standby",
+  "ownership": "Owned",
+  "serial_no": "WRC-2020-0509"
+}

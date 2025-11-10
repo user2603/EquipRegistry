@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-001",
+  "name": "Rotary Screw Air Compressor",
+  "category": "Air Compressor",
+  "department": "Workshop A",
+  "location": "Compressor Room 1",
+  "age_years": 9,
+  "duty": "Continuous",
+  "ownership": "Owned",
+  "serial_no": "RSC-2017-0114"
+}

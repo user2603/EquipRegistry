@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-007",
+  "name": "Electric Forklift",
+  "category": "Forklift",
+  "department": "Warehouse",
+  "location": "Warehouse Floor",
+  "age_years": 3,
+  "duty": "Intermittent",
+  "ownership": "Owned",
+  "serial_no": "EFK-2023-0156"
+}

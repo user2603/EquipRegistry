@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-017",
+  "name": "Cooling Tower",
+  "category": "Cooling Tower",
+  "department": "Facilities",
+  "location": "Tower Yard",
+  "age_years": 10,
+  "duty": "Continuous",
+  "ownership": "Owned",
+  "serial_no": "CTW-2016-0013"
+}

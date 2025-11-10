@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-002",
+  "name": "Hydraulic Press 200T",
+  "category": "Hydraulic Press",
+  "department": "Workshop A",
+  "location": "Press Bay 3",
+  "age_years": 6,
+  "duty": "Continuous",
+  "ownership": "Owned",
+  "serial_no": "HYP-2020-0322"
+}

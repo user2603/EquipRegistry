@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-011",
+  "name": "Cooling Water Circulation Pump",
+  "category": "Pump",
+  "department": "Facilities",
+  "location": "Pump Station 2",
+  "age_years": 8,
+  "duty": "Continuous",
+  "ownership": "Owned",
+  "serial_no": "CWP-2018-0215"
+}

@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-010",
+  "name": "Packaging Line Robot",
+  "category": "Robotic Arm",
+  "department": "Workshop C",
+  "location": "Packaging Line 2",
+  "age_years": 5,
+  "duty": "Continuous",
+  "ownership": "Owned",
+  "serial_no": "PLR-2021-0102"
+}
