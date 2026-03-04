@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-022",
+  "name": "Injection Molding Machine",
+  "category": "Injection Molder",
+  "department": "Workshop C",
+  "location": "Molding Hall C2",
+  "age_years": 8,
+  "duty": "Continuous",
+  "ownership": "Owned",
+  "serial_no": "IMM-2018-0177"
+}

@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-020",
+  "name": "Vertical Storage Lift",
+  "category": "Storage Lift",
+  "department": "Warehouse",
+  "location": "Warehouse Zone A",
+  "age_years": 3,
+  "duty": "Continuous",
+  "ownership": "Owned",
+  "serial_no": "VSL-2023-0884"
+}

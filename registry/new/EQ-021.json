@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-021",
+  "name": "Desiccant Air Dryer",
+  "category": "Air Dryer",
+  "department": "Workshop B",
+  "location": "Compressor Room 2",
+  "age_years": 4,
+  "duty": "Intermittent",
+  "ownership": "Owned",
+  "serial_no": "DAD-2022-0276"
+}

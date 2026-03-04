@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-019",
+  "name": "Fiber Laser Cutting Machine",
+  "category": "Laser Cutter",
+  "department": "Workshop A",
+  "location": "Cutting Bay A2",
+  "age_years": 5,
+  "duty": "Continuous",
+  "ownership": "Owned",
+  "serial_no": "FLC-2021-0431"
+}
