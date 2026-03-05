@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-025",
+  "name": "Label Applicator Station",
+  "category": "Labeler",
+  "department": "Workshop C",
+  "location": "Packaging Line 3",
+  "age_years": 1,
+  "duty": "Continuous",
+  "ownership": "Owned",
+  "serial_no": "LAS-2025-0120"
+}

@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-023",
+  "name": "Scissor Lift Platform",
+  "category": "Lift Platform",
+  "department": "Facilities",
+  "location": "Maintenance Bay",
+  "age_years": 6,
+  "duty": "Intermittent",
+  "ownership": "Owned",
+  "serial_no": "SLP-2020-0601"
+}

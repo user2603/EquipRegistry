@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-026",
+  "name": "Hydraulic Test Bench",
+  "category": "Test Bench",
+  "department": "Workshop B",
+  "location": "Test Area B5",
+  "age_years": 7,
+  "duty": "Standby",
+  "ownership": "Owned",
+  "serial_no": "HTB-2019-0455"
+}

@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-024",
+  "name": "Steam Boiler Unit",
+  "category": "Boiler",
+  "department": "Facilities",
+  "location": "Boiler House",
+  "age_years": 9,
+  "duty": "Continuous",
+  "ownership": "Owned",
+  "serial_no": "SBU-2017-0058"
+}
