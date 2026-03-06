@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-030",
+  "name": "Vibration Test Bench",
+  "category": "Test Bench",
+  "department": "Test Lab",
+  "location": "Test Lab 1",
+  "age_years": 8,
+  "duty": "Continuous",
+  "ownership": "Leased",
+  "serial_no": "VTB-2018-0914"
+}

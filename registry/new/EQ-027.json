@@ -1,0 +1,11 @@
+{
+  "equipment_id": "EQ-027",
+  "name": "Forklift Charging Station",
+  "category": "Charging Station",
+  "department": "Warehouse",
+  "location": "Warehouse Zone D",
+  "age_years": 2,
+  "duty": "Standby",
+  "ownership": "Owned",
+  "serial_no": "FCS-2024-0330"
+}
